@@ -2,9 +2,9 @@
 
 A simple command-line implementation of the **Snake, Water, Gun** game in Python.  
 It works similar to **Rock, Paper, Scissors**, but with a twist:  
-- Snake drinks Water 🐍💧
-- Water drowns Gun 💧🔫
-- Gun shoots Snake 🔫🐍
+- Snake drinks Water
+- Water drowns Gun 
+- Gun shoots Snake
 
 ---
 
@@ -22,9 +22,10 @@ It works similar to **Rock, Paper, Scissors**, but with a twist:
 ## 📜 Rules
 | Choice 1   | Choice 2   | Winner  |
 |------------|------------|---------|
-| Snake 🐍   | Water 💧   | Snake   |
-| Water 💧   | Gun 🔫     | Water   |
-| Gun 🔫     | Snake 🐍   | Gun     |
-| Same Choice | Same Choice | Draw   |
+| Snake      | Water      | Snake   |
+| Water      | Gun        | Water   |
+| Gun        | Snake      | Gun     |
+| Same Choice| Same Choice| Draw    |
+
 
 ---
