@@ -16,3 +16,15 @@ It works similar to **Rock, Paper, Scissors**, but with a twist:
    - `g` → Gun  
 3. The computer will randomly pick one.
 4. The winner will be decided based on the rules above.
+
+---
+
+## 📜 Rules
+| Choice 1   | Choice 2   | Winner  |
+|------------|------------|---------|
+| Snake 🐍   | Water 💧   | Snake   |
+| Water 💧   | Gun 🔫     | Water   |
+| Gun 🔫     | Snake 🐍   | Gun     |
+| Same Choice | Same Choice | Draw   |
+
+---
